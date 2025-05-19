@@ -1,0 +1,229 @@
+{"input": "Delta 2277, for two more departures off the south complex now, Cosmic Dribble, you'll be in train of heavy 777, runway 24L line up and wait.", "output": "Message: Delta 2277, for two more departures off the south complex now, Cosmic Dribble, you'll be in train of heavy 777, runway 24L line up and wait.\nFrom: Tower\nTo: Delta 2277"}
+{"input": "24L line up and wait, Delta 2277.", "output": "Message: 24L line up and wait, Delta 2277.\nFrom: Delta 2277\nTo: Tower"}
+{"input": "Tower, Skywest 4470, visual 24R.", "output": "Message: Tower, Skywest 4470, visual 24R.\nFrom: Skywest 4470\nTo: Tower"}
+{"input": "Skywest 4470, LA Tower, Airbus 319, 4.5 miles ahead, wind calm, runway 24R, cleared to land.", "output": "Message: Skywest 4470, LA Tower, Airbus 319, 4.5 miles ahead, wind calm, runway 24R, cleared to land.\nFrom: Tower\nTo: Skywest 4470"}
+{"input": "24R, cleared to land, Skywest 4477.", "output": "Message: 24R, cleared to land, Skywest 4477.\nFrom: Skywest 4470\nTo: Tower"}
+{"input": "Skywest 3023, visual 24R.", "output": "Message: Skywest 3023, visual 24R.\nFrom: Skywest 3023\nTo: Tower"}
+{"input": "Skywest 3023, LA Tower, number 2, wind 090 at 3, runway 24R, cleared to land.", "output": "Message: Skywest 3023, LA Tower, number 2, wind 090 at 3, runway 24R, cleared to land.\nFrom: Tower\nTo: Skywest 3023"}
+{"input": "Cleared to land, 24R, Skywest 3022", "output": "Message: Cleared to land, 24R, Skywest 3022\nFrom: Skywest 3023\nTo: Tower"}
+{"input": "Delta 1216, at Alpha Alpha hold short of runway 24L.", "output": "Message: Delta 1216, at Alpha Alpha hold short of runway 24L.\nFrom: Tower\nTo: Delta 1216"}
+{"input": "Alpha, Alpha short 24L, Delta 1216.", "output": "Message: Alpha, Alpha short 24L, Delta 1216.\nFrom: Delta 1216\nTo: Tower"}
+{"input": "Delta 1216, I said Alpha, Alpha cross 24L Turn left onto Echo, hold and wait crossing the runway, please.", "output": "Message: Delta 1216, I said Alpha, Alpha cross 24L Turn left onto Echo, hold and wait crossing the runway, please.\nFrom: Tower\nTo: Delta 1216"}
+{"input": "Hold and wait, cross 24L, leftbound, Echo, Delta 1216.", "output": "Message: Hold and wait, cross 24L, leftbound, Echo, Delta 1216.\nFrom: Delta 1216\nTo: Tower"}
+{"input": "Delta 2277, turn left, light heading 190, wind 090 at 3, runway 24L, clear for takeoff.", "output": "Message: Delta 2277, turn left, light heading 190, wind 090 at 3, runway 24L, clear for takeoff.\nFrom: Tower\nTo: Delta 2277"}
+{"input": "Delta 2277, left turn, heading 190, or 24L, clear for takeoff.", "output": "Message: Delta 2277, left turn, heading 190, or 24L, clear for takeoff.\nFrom: Delta 2277\nTo: Tower"}
+{"input": "Skywest 3540, runway 24L, line up and wait.", "output": "Message: Skywest 3540, runway 24L, line up and wait.\nFrom: Tower\nTo: Skywest 3540"}
+{"input": "24L, line up and wait, Skywest 3540", "output": "Message: 24L, line up and wait, Skywest 3540\nFrom: Skywest 3540\nTo: Tower"}
+{"input": "LA Tower, Bravo, 99988, final approach, runway 24R.", "output": "Message: LA Tower, Bravo, 99988, final approach, runway 24R.\nFrom: Bravo 99988\nTo: Tower"}
+{"input": "Bravo, 99988, LA Tower, runway 24R, cleared to land.", "output": "Message: Bravo, 99988, LA Tower, runway 24R, cleared to land.\nFrom: Tower\nTo: Bravo 99988"}
+{"input": "Cleared to land, runway 24R, 99988.", "output": "Message: Cleared to land, runway 24R, 99988.\nFrom: Bravo 99988\nTo: Tower"}
+{"input": "Skywest 3548, turn left, heading 210, runway 24L, cleared for takeoff.", "output": "Message: Skywest 3548, turn left, heading 210, runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Skywest 3548"}
+{"input": "24L, cleared for takeoff, left turn, 219, Skywest 3548.", "output": "Message: 24L, cleared for takeoff, left turn, 219, Skywest 3548.\nFrom: Skywest 3548\nTo: Tower"}
+{"input": "Skywest 4470, hold short, runway 24L.", "output": "Message: Skywest 4470, hold short, runway 24L.\nFrom: Tower\nTo: Skywest 4470"}
+{"input": "Hold short of runway 24L, Skywest 4470.", "output": "Message: Hold short of runway 24L, Skywest 4470.\nFrom: Skywest 4470\nTo: Tower"}
+{"input": "Southwest 3021, LA Tower, 24L, line up and wait, on departure, turn left, heading 230.", "output": "Message: Southwest 3021, LA Tower, 24L, line up and wait, on departure, turn left, heading 230.\nFrom: Tower\nTo: Southwest 3021"}
+{"input": "On departure to line up and wait, 24L, Skywest 3021.", "output": "Message: On departure to line up and wait, 24L, Skywest 3021.\nFrom: Southwest 3021\nTo: Tower"}
+{"input": "Skywest 2277, turn left, now heading 190.", "output": "Message: Skywest 2277, turn left, now heading 190.\nFrom: Tower\nTo: Delta 2277"}
+{"input": "Delta 2277, left turn, 190.", "output": "Message: Delta 2277, left turn, 190.\nFrom: Delta 2277\nTo: Tower"}
+{"input": "Skywest 2277, contact SoCal, departure, good flight.", "output": "Message: Skywest 2277, contact SoCal, departure, good flight.\nFrom: Tower\nTo: Delta 2277"}
+{"input": "Delta 2277, SoCal, so long.", "output": "Message: Delta 2277, SoCal, so long.\nFrom: Delta 2277\nTo: Tower"}
+{"input": "Southwest 3021, turn left, heading 230, runway 24L, clear for takeoff.", "output": "Message: Southwest 3021, turn left, heading 230, runway 24L, clear for takeoff.\nFrom: Tower\nTo: Southwest 3021"}
+{"input": "Clear for takeoff, 24L, on departure, flight heading 230, Southwest 3021", "output": "Message: Clear for takeoff, 24L, on departure, flight heading 230, Southwest 3021\nFrom: Southwest 3021\nTo: Tower"}
+{"input": "Skywest 380, LA Tower, runway 24L, line up and wait.", "output": "Message: Skywest 380, LA Tower, runway 24L, line up and wait.\nFrom: Tower\nTo: Skywest 380"}
+{"input": "Skywest 380, runway 24L, line up and wait.", "output": "Message: Skywest 380, runway 24L, line up and wait.\nFrom: Tower\nTo: Skywest 380"}
+{"input": "Line up and wait, 24L, Delta 380.", "output": "Message: Line up and wait, 24L, Delta 380.\nFrom: Skywest 380\nTo: Tower"}
+{"input": "Skywest 3548, left heading 210.", "output": "Message: Skywest 3548, left heading 210.\nFrom: Tower\nTo: Skywest 3548"}
+{"input": "Skywest 3548, turn 210.", "output": "Message: Skywest 3548, turn 210.\nFrom: Tower\nTo: Skywest 3548"}
+{"input": "We're turning 210, Skywest 3548.", "output": "Message: We're turning 210, Skywest 3548.\nFrom: Skywest 3548\nTo: Tower"}
+{"input": "Skywest 3548, contact SoCal, departure, good flight.", "output": "Message: Skywest 3548, contact SoCal, departure, good flight.\nFrom: Tower\nTo: Skywest 3548"}
+{"input": "Going to SoCal, Skywest 3548, thanks.", "output": "Message: Going to SoCal, Skywest 3548, thanks.\nFrom: Skywest 3548\nTo: Tower"}
+{"input": "Delta 380, traffic at southbound, RNAV to Delray, runway 24L, clear for takeoff.", "output": "Message: Delta 380, traffic at southbound, RNAV to Delray, runway 24L, clear for takeoff.\nFrom: Tower\nTo: Delta 380"}
+{"input": "RNAV to Delray, 24L, clear for takeoff, Delta 380.", "output": "Message: RNAV to Delray, 24L, clear for takeoff, Delta 380.\nFrom: Delta 380\nTo: Tower"}
+{"input": "Skywest 1925, LA Tower, runway 24L, line up and wait.", "output": "Message: Skywest 1925, LA Tower, runway 24L, line up and wait.\nFrom: Tower\nTo: Skywest 1925"}
+{"input": "Line up and wait, 24L, Skywest 1925.", "output": "Message: Line up and wait, 24L, Skywest 1925.\nFrom: Skywest 1925\nTo: Tower"}
+{"input": "Skywest 3023, Alpha, Alpha, hold short 24L.", "output": "Message: Skywest 3023, Alpha, Alpha, hold short 24L.\nFrom: Tower\nTo: Skywest 3023"}
+{"input": "Alpha, Alpha, hold short 24L, Skywest 3023.", "output": "Message: Alpha, Alpha, hold short 24L, Skywest 3023.\nFrom: Skywest 3023\nTo: Tower"}
+{"input": "Southwest 3021, turn left, heading 230.", "output": "Message: Southwest 3021, turn left, heading 230.\nFrom: Tower\nTo: Southwest 3021"}
+{"input": "230, heading, Southwest 3021.", "output": "Message: 230, heading, Southwest 3021.\nFrom: Southwest 3021\nTo: Tower"}
+{"input": "Skywest 3830, visual contact, 24R.", "output": "Message: Skywest 3830, visual contact, 24R.\nFrom: Skywest 3830\nTo: Tower"}
+{"input": "Southwest 3021, contact SoCal, departure.", "output": "Message: Southwest 3021, contact SoCal, departure.\nFrom: Tower\nTo: Southwest 3021"}
+{"input": "321.", "output": "Message: 321.\nFrom: Southwest 3021\nTo: Tower"}
+{"input": "Skywest 3830, LA Tower, 1080, runway 24R, clear to land.", "output": "Message: Skywest 3830, LA Tower, 1080, runway 24R, clear to land.\nFrom: Tower\nTo: Skywest 3830"}
+{"input": "Clear to land, 24R, Skywest 3830.", "output": "Message: Clear to land, 24R, Skywest 3830.\nFrom: Skywest 3830\nTo: Tower"}
+{"input": "Skywest 1925, RNAV to Delray, runway 24L, clear for takeoff.", "output": "Message: Skywest 1925, RNAV to Delray, runway 24L, clear for takeoff.\nFrom: Tower\nTo: Skywest 1925"}
+{"input": "Skywest 1925, I can't hear you, verify RNAV to Delray, takeoff.", "output": "Message: Skywest 1925, I can't hear you, verify RNAV to Delray, takeoff.\nFrom: Tower\nTo: Skywest 1925"}
+{"input": "RNAV to Delray, clear for takeoff runway 24L, Skywest 1925.", "output": "Message: RNAV to Delray, clear for takeoff runway 24L, Skywest 1925.\nFrom: Skywest 1925\nTo: Tower"}
+{"input": "Skywest 1875, LA Tower, runway 24L, line up and wait.", "output": "Message: Skywest 1875, LA Tower, runway 24L, line up and wait.\nFrom: Tower\nTo: Skywest 1875"}
+{"input": "Delta 1875, runway 24L.", "output": "Message: Delta 1875, runway 24L.\nFrom: Delta 1875\nTo: Tower"}
+{"input": "Delta 380, contact SoCal, departure, good flight.", "output": "Message: Delta 380, contact SoCal, departure, good flight.\nFrom: Tower\nTo: Delta 380"}
+{"input": "Delta 380, take care.", "output": "Message: Delta 380, take care.\nFrom: Delta 380\nTo: Tower"}
+{"input": "Bravo 99988 to Bravo Bravo, the end.", "output": "Message: Bravo 99988 to Bravo Bravo, the end.\nFrom: Tower\nTo: Bravo 99988"}
+{"input": "Going to Bravo Bravo, 99988.", "output": "Message: Going to Bravo Bravo, 99988.\nFrom: Bravo 99988\nTo: Tower"}
+{"input": "Bravo 99988 at Bravo Bravo, hold short 24L.", "output": "Message: Bravo 99988 at Bravo Bravo, hold short 24L.\nFrom: Tower\nTo: Bravo 99988"}
+{"input": "At Bravo Bravo, hold short runway 24L, Bravo 99988.", "output": "Message: At Bravo Bravo, hold short runway 24L, Bravo 99988.\nFrom: Bravo 99988\nTo: Tower"}
+{"input": "Southwest 1670, LA tower, it's going to be the other way due to traffic on south complex.", "output": "Message: Southwest 1670, LA tower, it's going to be the other way due to traffic on south complex.\nFrom: Tower\nTo: Southwest 1670"}
+{"input": "Alright thanks for that, Southwest 1670.", "output": "Message: Alright thanks for that, Southwest 1670.\nFrom: Southwest 1670\nTo: Tower"}
+{"input": "Delta 1875, RNAV to Delray, runway 24L, cleared for takeoff.", "output": "Message: Delta 1875, RNAV to Delray, runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Delta 1875"}
+{"input": "Delta 1875, cleared for takeoff, RNAV to Delray.", "output": "Message: Delta 1875, cleared for takeoff, RNAV to Delray.\nFrom: Delta 1875\nTo: Tower"}
+{"input": "Skywest 1925, contact Socal departure.", "output": "Message: Skywest 1925, contact Socal departure.\nFrom: Tower\nTo: Skywest 1925"}
+{"input": "Socal departure, Skywest 1925, good day.", "output": "Message: Socal departure, Skywest 1925, good day.\nFrom: Skywest 1925\nTo: Tower"}
+{"input": "United 1634, LA Tower, can you depart from any intersection?", "output": "Message: United 1634, LA Tower, can you depart from any intersection?\nFrom: Tower\nTo: United 1634"}
+{"input": "Affirmative but we need a minute and a half, United 1634.", "output": "Message: Affirmative but we need a minute and a half, United 1634.\nFrom: United 1634\nTo: Tower"}
+{"input": "Sky 4470 Zulu cross runway 24L contact ground 0.65.", "output": "Message: Sky 4470 Zulu cross runway 24L contact ground 0.65.\nFrom: Tower\nTo: Sky 4470"}
+{"input": "24L ground on the other side Sky 4470.", "output": "Message: 24L ground on the other side Sky 4470.\nFrom: Sky 4470\nTo: Tower"}
+{"input": "99988 Bravo cross runway 24L contact ground 0.65.", "output": "Message: 99988 Bravo cross runway 24L contact ground 0.65.\nFrom: Tower\nTo: Bravo 99988"}
+{"input": "United 1634, Alpha cross runway 24L go straight at the bridge route 0.75.", "output": "Message: United 1634, Alpha cross runway 24L go straight at the bridge route 0.75.\nFrom: Tower\nTo: United 1634"}
+{"input": "Alpha cross runway 24L go straight at the bridge route 0.75, United 1634.", "output": "Message: Alpha cross runway 24L go straight at the bridge route 0.75, United 1634.\nFrom: United 1634\nTo: Tower"}
+{"input": "Delta 1875 contact departure.", "output": "Message: Delta 1875 contact departure.\nFrom: Tower\nTo: Delta 1875"}
+{"input": "Delta 1875 switch.", "output": "Message: Delta 1875 switch.\nFrom: Delta 1875\nTo: Tower"}
+{"input": "United 1634, Continue and hold the beam ECHO 7.", "output": "Message: United 1634, Continue and hold the beam ECHO 7.\nFrom: Tower\nTo: United 1634"}
+{"input": "Continue hold the beam ECHO 7, United 1634.", "output": "Message: Continue hold the beam ECHO 7, United 1634.\nFrom: United 1634\nTo: Tower"}
+{"input": "Sky 3830, Zulu cross runway 24L 0.65.", "output": "Message: Sky 3830, Zulu cross runway 24L 0.65.\nFrom: Tower\nTo: Sky 3830"}
+{"input": "At zulu cross 24L and over, 3830.", "output": "Message: At zulu cross 24L and over, 3830.\nFrom: Sky 3830\nTo: Tower"}
+{"input": "Skywest 5696, LA tower can you depart from ECHO 8 or Victor?", "output": "Message: Skywest 5696, LA tower can you depart from ECHO 8 or Victor?\nFrom: Tower\nTo: Skywest 5696"}
+{"input": "We just have to re-illuminate the number, Skywest 5696.", "output": "Message: We just have to re-illuminate the number, Skywest 5696.\nFrom: Skywest 5696\nTo: Tower"}
+{"input": "United 1634 intersection back taxi runway 24L full length, line up and wait.", "output": "Message: United 1634 intersection back taxi runway 24L full length, line up and wait.\nFrom: Tower\nTo: United 1634"}
+{"input": "Back taxi, line up and wait, 24L, yeah, United 1634.", "output": "Message: Back taxi, line up and wait, 24L, yeah, United 1634.\nFrom: United 1634\nTo: Tower"}
+{"input": "Skywest 5696 just hold the beam ECHO 7 and I'll just back taxi you later.", "output": "Message: Skywest 5696 just hold the beam ECHO 7 and I'll just back taxi you later.\nFrom: Tower\nTo: Skywest 5696"}
+{"input": "Hold the beam ECHO 7 uh, Skywest 5696", "output": "Message: Hold the beam ECHO 7 uh, Skywest 5696\nFrom: Skywest 5696\nTo: Tower"}
+{"input": "Tower Hello United 1592, contact 24R.", "output": "Message: Tower Hello United 1592, contact 24R.\nFrom: United 1592\nTo: Tower"}
+{"input": "United 1592, LA tower, wind 070 at 3, runway 24R, cleared to land.", "output": "Message: United 1592, LA tower, wind 070 at 3, runway 24R, cleared to land.\nFrom: Tower\nTo: United 1592"}
+{"input": "24R, cleared to land, United 1592.", "output": "Message: 24R, cleared to land, United 1592.\nFrom: United 1592\nTo: Tower"}
+{"input": "5696, just hold short of 24L at ECHO 7.", "output": "Message: 5696, just hold short of 24L at ECHO 7.\nFrom: Tower\nTo: Skywest 5696"}
+{"input": "Hold short of 24L at ECHO 7, Skywest 5696.", "output": "Message: Hold short of 24L at ECHO 7, Skywest 5696.\nFrom: Skywest 5696\nTo: Tower"}
+{"input": "United 1634, let me know when you're ready to go.", "output": "Message: United 1634, let me know when you're ready to go.\nFrom: Tower\nTo: United 1634"}
+{"input": "Wilco, United 1634.", "output": "Message: Wilco, United 1634.\nFrom: United 1634\nTo: Tower"}
+{"input": "United 1634 is ready to go.", "output": "Message: United 1634 is ready to go.\nFrom: United 1634\nTo: Tower"}
+{"input": "United 1634, wind 070 at 3, RNAV to Delray, runway 24L full length, clear for takeoff.", "output": "Message: United 1634, wind 070 at 3, RNAV to Delray, runway 24L full length, clear for takeoff.\nFrom: Tower\nTo: United 1634"}
+{"input": "RNAV Delray, full length off runway 24L, United 1634.", "output": "Message: RNAV Delray, full length off runway 24L, United 1634.\nFrom: United 1634\nTo: Tower"}
+{"input": "Skywest 96, take back taxi runway 24L full length, line up and wait.", "output": "Message: Skywest 96, take back taxi runway 24L full length, line up and wait.\nFrom: Tower\nTo: Skywest 96"}
+{"input": "Taxi on runway 24L for full length, and then we'll line up and wait, Skywest 96.", "output": "Message: Taxi on runway 24L for full length, and then we'll line up and wait, Skywest 96.\nFrom: Skywest 96\nTo: Tower"}
+{"input": "Tower, Skywest 3142 on the visual.", "output": "Message: Tower, Skywest 3142 on the visual.\nFrom: Skywest 3142\nTo: Tower"}
+{"input": "Skywest 3142, LA Tower, wind 070 at 3, runway 24R, cleared to land.", "output": "Message: Skywest 3142, LA Tower, wind 070 at 3, runway 24R, cleared to land.\nFrom: Tower\nTo: Skywest 3142"}
+{"input": "Cleared to land 24R, Skywest 3142.", "output": "Message: Cleared to land 24R, Skywest 3142.\nFrom: Skywest 3142\nTo: Tower"}
+{"input": "United 1634, contact SoCal departure.", "output": "Message: United 1634, contact SoCal departure.\nFrom: Tower\nTo: United 1634"}
+{"input": "Affirmative.", "output": "Message: Affirmative.\nFrom: United 1634\nTo: Tower"}
+{"input": "Skywest 5696, RNAV to Delray, runway 24L full length, clear for takeoff.", "output": "Message: Skywest 5696, RNAV to Delray, runway 24L full length, clear for takeoff.\nFrom: Tower\nTo: Skywest 5696"}
+{"input": "RNAV to Delray, runway 24L, full length, cleared for takeoff, Skywest 5696.", "output": "Message: RNAV to Delray, runway 24L, full length, cleared for takeoff, Skywest 5696.\nFrom: Skywest 5696\nTo: Tower"}
+{"input": "South 1670, report RJN in sight, runway 24L, line up and wait.", "output": "Message: South 1670, report RJN in sight, runway 24L, line up and wait.\nFrom: Tower\nTo: South 1670"}
+{"input": "That is the RJN site, line up and wait, Southwest 1670.", "output": "Message: That is the RJN site, line up and wait, Southwest 1670.\nFrom: South 1670\nTo: Tower"}
+{"input": "South 1670, separation wind 080 at 3, RNAV to Delray, runway 24L, clear for takeoff.", "output": "Message: South 1670, separation wind 080 at 3, RNAV to Delray, runway 24L, clear for takeoff.\nFrom: Tower\nTo: South 1670"}
+{"input": "RNAV Delray, clear for takeoff, 24L, Southwest 1670.", "output": "Message: RNAV Delray, clear for takeoff, 24L, Southwest 1670.\nFrom: South 1670\nTo: Tower"}
+{"input": "3171, LA Tower, full length, runway 24L, line up and wait, report 737 departing ahead in sight.", "output": "Message: 3171, LA Tower, full length, runway 24L, line up and wait, report 737 departing ahead in sight.\nFrom: Tower\nTo: 3171"}
+{"input": "Line up and wait, Skywest 3171, departing 737 in sight.", "output": "Message: Line up and wait, Skywest 3171, departing 737 in sight.\nFrom: Skywest 3171\nTo: Tower"}
+{"input": "United 1592, hold short 24L.", "output": "Message: United 1592, hold short 24L.\nFrom: Tower\nTo: United 1592"}
+{"input": "Hold short, 24L, United 1592.", "output": "Message: Hold short, 24L, United 1592.\nFrom: United 1592\nTo: Tower"}
+{"input": "Skywest 5696, SoCal departure.", "output": "Message: Skywest 5696, SoCal departure.\nFrom: Tower\nTo: Skywest 5696"}
+{"input": "Contact SoCal departure, Skywest 5696.", "output": "Message: Contact SoCal departure, Skywest 5696.\nFrom: Skywest 5696\nTo: Tower"}
+{"input": "Good day, Skywest 3171, maintain visual separation, RNAV to Delray, runway 24L, clear for takeoff.", "output": "Message: Good day, Skywest 3171, maintain visual separation, RNAV to Delray, runway 24L, clear for takeoff.\nFrom: Tower\nTo: Skywest 3171"}
+{"input": "Visual separation, clear for takeoff, 24L, Skywest 3171.", "output": "Message: Visual separation, clear for takeoff, 24L, Skywest 3171.\nFrom: Skywest 3171\nTo: Tower"}
+{"input": "Skywest 3373, LA Tower, runway 24L, line up and wait.", "output": "Message: Skywest 3373, LA Tower, runway 24L, line up and wait.\nFrom: Tower\nTo: Skywest 3373"}
+{"input": "24L, line up and wait, Skywest 3373.", "output": "Message: 24L, line up and wait, Skywest 3373.\nFrom: Skywest 3373\nTo: Tower"}
+{"input": "South 1670, contact SoCal departure, left runway, you got visual.", "output": "Message: South 1670, contact SoCal departure, left runway, you got visual.\nFrom: Tower\nTo: South 1670"}
+{"input": "South 1670.", "output": "Message: South 1670.\nFrom: South 1670\nTo: Tower"}
+{"input": "3171, contact SoCal departure.", "output": "Message: 3171, contact SoCal departure.\nFrom: Tower\nTo: Skywest 3171"}
+{"input": "Good day, Skywest 3171.", "output": "Message: Good day, Skywest 3171.\nFrom: Skywest 3171\nTo: Tower"}
+{"input": "Skywest 3373, RNAV to Delray, runway 24L, clear for takeoff.", "output": "Message: Skywest 3373, RNAV to Delray, runway 24L, clear for takeoff.\nFrom: Tower\nTo: Skywest 3373"}
+{"input": "Clear for takeoff, 24L, RNAV Delray, Skywest 3373.", "output": "Message: Clear for takeoff, 24L, RNAV Delray, Skywest 3373.\nFrom: Skywest 3373\nTo: Tower"}
+{"input": "Skywest 3172, contact Alpha Alpha, hold short runway 24L.", "output": "Message: Skywest 3172, contact Alpha Alpha, hold short runway 24L.\nFrom: Tower\nTo: Skywest 3172"}
+{"input": "Alpha Alpha, hold short, 24L, 3172.", "output": "Message: Alpha Alpha, hold short, 24L, 3172.\nFrom: Skywest 3172\nTo: Tower"}
+{"input": "United 1592, Zulu, cross runway 24L, over to ground 0.65.", "output": "Message: United 1592, Zulu, cross runway 24L, over to ground 0.65.\nFrom: Tower\nTo: United 1592"}
+{"input": "Alright, cross 24L on Zulu, over to ground at 0.65, United 1592.", "output": "Message: Alright, cross 24L on Zulu, over to ground at 0.65, United 1592.\nFrom: United 1592\nTo: Tower"}
+{"input": "Skywest 3142, Alpha Alpha, cross runway 24L, go straight at bridge route 5.", "output": "Message: Skywest 3142, Alpha Alpha, cross runway 24L, go straight at bridge route 5.\nFrom: Tower\nTo: Skywest 3142"}
+{"input": "Alpha Alpha, cross 24L, Skywest 3142.", "output": "Message: Alpha Alpha, cross 24L, Skywest 3142.\nFrom: Skywest 3142\nTo: Tower"}
+{"input": "Skywest 3373, contact SoCal departure.", "output": "Message: Skywest 3373, contact SoCal departure.\nFrom: Tower\nTo: Skywest 3373"}
+{"input": "SoCal, good day, Skywest 3373.", "output": "Message: SoCal, good day, Skywest 3373.\nFrom: Skywest 3373\nTo: Tower"}
+{"input": "Delta 738, LA Tower, try crossing 24L, line up and wait.", "output": "Message: Delta 738, LA Tower, try crossing 24L, line up and wait.\nFrom: Tower\nTo: Delta 738"}
+{"input": "24L, line up and wait, Delta 738.", "output": "Message: 24L, line up and wait, Delta 738.\nFrom: Delta 738\nTo: Tower"}
+{"input": "Tower, good morning, Cathay 884, 24R.", "output": "Message: Tower, good morning, Cathay 884, 24R.\nFrom: Cathay 884\nTo: Tower"}
+{"input": "Cathay 884 heavy, LA Tower, 1080 at 5, runway 24R, cleared to land.", "output": "Message: Cathay 884 heavy, LA Tower, 1080 at 5, runway 24R, cleared to land.\nFrom: Tower\nTo: Cathay 884"}
+{"input": "Runway 24R, cleared to land, Cathay 884.", "output": "Message: Runway 24R, cleared to land, Cathay 884.\nFrom: Cathay 884\nTo: Tower"}
+{"input": "Delta 738, RNAV to Delray, runway 24L clear for takeoff.", "output": "Message: Delta 738, RNAV to Delray, runway 24L clear for takeoff.\nFrom: Tower\nTo: Delta 738"}
+{"input": "RNAV to Delray, clear to go 24L, Delta 738.", "output": "Message: RNAV to Delray, clear to go 24L, Delta 738.\nFrom: Delta 738\nTo: Tower"}
+{"input": "Delta 799, LA Tower, 24L, line up and wait.", "output": "Message: Delta 799, LA Tower, 24L, line up and wait.\nFrom: Tower\nTo: Delta 799"}
+{"input": "24L, line up and wait, Delta 799.", "output": "Message: 24L, line up and wait, Delta 799.\nFrom: Delta 799\nTo: Tower"}
+{"input": "Wind 060 at 5.", "output": "Message: Wind 060 at 5.\nFrom: Tower\nTo: Delta 799"}
+{"input": "Tower, 3017 heavy, approach runway 24R.", "output": "Message: Tower, 3017 heavy, approach runway 24R.\nFrom: 3017 heavy\nTo: Tower"}
+{"input": "3017 heavy, LA Tower, caution wait turns 737, wind 060 at 5, runway 24R, cleared to land.", "output": "Message: 3017 heavy, LA Tower, caution wait turns 737, wind 060 at 5, runway 24R, cleared to land.\nFrom: Tower\nTo: 3017 heavy"}
+{"input": "Cleared to land, 24R, 3017.", "output": "Message: Cleared to land, 24R, 3017.\nFrom: 3017 heavy\nTo: Tower"}
+{"input": "Delta 799, RNAV, Delray, runway 24L, cleared for takeoff.", "output": "Message: Delta 799, RNAV, Delray, runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Delta 799"}
+{"input": "RNAV, Delray, 24L, cleared for takeoff, Delta 799.", "output": "Message: RNAV, Delray, 24L, cleared for takeoff, Delta 799.\nFrom: Delta 799\nTo: Tower"}
+{"input": "Delta 786, LA Tower, runway 24L, mile point, report 737, head inside.", "output": "Message: Delta 786, LA Tower, runway 24L, mile point, report 737, head inside.\nFrom: Tower\nTo: Delta 786"}
+{"input": "Line up and wait for 27L, Delta 786.", "output": "Message: Line up and wait for 27L, Delta 786.\nFrom: Delta 786\nTo: Tower"}
+{"input": "786, runway 24L, line up and wait, report 737, departing ahead inside.", "output": "Message: 786, runway 24L, line up and wait, report 737, departing ahead inside.\nFrom: Tower\nTo: Delta 786"}
+{"input": "737 inside, 24L, Delta 786.", "output": "Message: 737 inside, 24L, Delta 786.\nFrom: Delta 786\nTo: Tower"}
+{"input": "Delta 738, contact SoCal departure.", "output": "Message: Delta 738, contact SoCal departure.\nFrom: Tower\nTo: Delta 738"}
+{"input": "Departure, 738, yeah.", "output": "Message: Departure, 738, yeah.\nFrom: Delta 738\nTo: Tower"}
+{"input": "Cathay 884 heavy, Alpha Alpha, hold short, runway 24L.", "output": "Message: Cathay 884 heavy, Alpha Alpha, hold short, runway 24L.\nFrom: Tower\nTo: Cathay 884"}
+{"input": "Alpha Alpha, 24L, Cathay 884.", "output": "Message: Alpha Alpha, 24L, Cathay 884.\nFrom: Cathay 884\nTo: Tower"}
+{"input": "Delta 786, maintain visual separation, RNAV to Delray, runway 24L, cleared for takeoff.", "output": "Message: Delta 786, maintain visual separation, RNAV to Delray, runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Delta 786"}
+{"input": "Maintain visual separation, RNAV to Delray, for 24L, 786.", "output": "Message: Maintain visual separation, RNAV to Delray, for 24L, 786.\nFrom: Delta 786\nTo: Tower"}
+{"input": "Cleared for takeoff.", "output": "Message: Cleared for takeoff.\nFrom: Delta 786\nTo: Tower"}
+{"input": "Delta 799, Contact SoCal departure.", "output": "Message: Delta 799, Contact SoCal departure.\nFrom: Tower\nTo: Delta 799"}
+{"input": "SoCal departure, Delta 799.", "output": "Message: SoCal departure, Delta 799.\nFrom: Delta 799\nTo: Tower"}
+{"input": "Cathay 884, heavy, Alpha Alpha, cross runway 24L, go straight ahead to bridge route 5, checkpoint.", "output": "Message: Cathay 884, heavy, Alpha Alpha, cross runway 24L, go straight ahead to bridge route 5, checkpoint.\nFrom: Tower\nTo: Cathay 884"}
+{"input": "Alpha Alpha, cross runway 24L, to bridge route for checkpoint 3, Cathay 884.", "output": "Message: Alpha Alpha, cross runway 24L, to bridge route for checkpoint 3, Cathay 884.\nFrom: Cathay 884\nTo: Tower"}
+{"input": "Delta 786, contact SoCal departure.", "output": "Message: Delta 786, contact SoCal departure.\nFrom: Tower\nTo: Delta 786"}
+{"input": "Departure, Delta 786, good day.", "output": "Message: Departure, Delta 786, good day.\nFrom: Delta 786\nTo: Tower"}
+{"input": "Sierra 76, LA Tower, caution wait, current behind the heavy 777 complex, runway 24L, line up and wait.", "output": "Message: Sierra 76, LA Tower, caution wait, current behind the heavy 777 complex, runway 24L, line up and wait.\nFrom: Tower\nTo: Sierra 76"}
+{"input": "24L, line up and wait, Sierra 76.", "output": "Message: 24L, line up and wait, Sierra 76.\nFrom: Sierra 76\nTo: Tower"}
+{"input": "Cray 017 heavy, exit and cross runway 24L, go straight ahead on Alpha Alpha, hold short of Charlie.", "output": "Message: Cray 017 heavy, exit and cross runway 24L, go straight ahead on Alpha Alpha, hold short of Charlie.\nFrom: Tower\nTo: Cray 017 heavy"}
+{"input": "Alpha Alpha, cross runway 24L, Alpha Alpha, Charlie, Cray 017.", "output": "Message: Alpha Alpha, cross runway 24L, Alpha Alpha, Charlie, Cray 017.\nFrom: Cray 017 heavy\nTo: Tower"}
+{"input": "017 heavy, on Alpha Alpha, hold short of Charlie at the checkpoint, ground 0.75.", "output": "Message: 017 heavy, on Alpha Alpha, hold short of Charlie at the checkpoint, ground 0.75.\nFrom: Tower\nTo: Cray 017 heavy"}
+{"input": "Alpha Alpha, cross 24L, Alpha Alpha, hold short of Charlie, ground 0.75, Cray 017.", "output": "Message: Alpha Alpha, cross 24L, Alpha Alpha, hold short of Charlie, ground 0.75, Cray 017.\nFrom: Cray 017 heavy\nTo: Tower"}
+{"input": "Cathay 884, approaching checkpoint 3.", "output": "Message: Cathay 884, approaching checkpoint 3.\nFrom: Tower\nTo: Cathay 884"}
+{"input": "Contact ground 0.75.", "output": "Message: Contact ground 0.75.\nFrom: Tower\nTo: Cathay 884"}
+{"input": "Ground 0.75, Cathay 884.", "output": "Message: Ground 0.75, Cathay 884.\nFrom: Cathay 884\nTo: Tower"}
+{"input": "Tower, Skyhawk 5240, on the visual, 24R.", "output": "Message: Tower, Skyhawk 5240, on the visual, 24R.\nFrom: Skyhawk 5240\nTo: Tower"}
+{"input": "Skyhawk 5240, LA Tower, caution, wait turn, speed by Heavy, wind 070 at 5, runway 24R, cleared to land.", "output": "Message: Skyhawk 5240, LA Tower, caution, wait turn, speed by Heavy, wind 070 at 5, runway 24R, cleared to land.\nFrom: Tower\nTo: Skyhawk 5240"}
+{"input": "Cleared to land, Skyhawk 5240.", "output": "Message: Cleared to land, Skyhawk 5240.\nFrom: Skyhawk 5240\nTo: Tower"}
+{"input": "Sierra 76, RNAV to Delray, runway 24L, cleared for takeoff.", "output": "Message: Sierra 76, RNAV to Delray, runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Sierra 76"}
+{"input": "RNAV to Delray, 24L, cleared for takeoff, Skyhawk 76.", "output": "Message: RNAV to Delray, 24L, cleared for takeoff, Skyhawk 76.\nFrom: Skyhawk 76\nTo: Tower"}
+{"input": "Canada 551, LA Tower, 24L, line up and wait, report the airbus departing ahead of in sight.", "output": "Message: Canada 551, LA Tower, 24L, line up and wait, report the airbus departing ahead of in sight.\nFrom: Tower\nTo: Canada 551"}
+{"input": "24L, line up and wait, Canada 551.", "output": "Message: 24L, line up and wait, Canada 551.\nFrom: Canada 551\nTo: Tower"}
+{"input": "Canada 551, Visual separation, RNAV to Delray, runway 24L cleared for takeoff.", "output": "Message: Canada 551, Visual separation, RNAV to Delray, runway 24L cleared for takeoff.\nFrom: Tower\nTo: Canada 551"}
+{"input": "RNAV to Delray, 24L, cleared for takeoff, the airbus in sight, Canada 551.", "output": "Message: RNAV to Delray, 24L, cleared for takeoff, the airbus in sight, Canada 551.\nFrom: Canada 551\nTo: Tower"}
+{"input": "Delta 2581, LA Tower, runway 24L, lina up and wait, report 737 departing ahead of in sight.", "output": "Message: Delta 2581, LA Tower, runway 24L, lina up and wait, report 737 departing ahead of in sight.\nFrom: Tower\nTo: Delta 2581"}
+{"input": "RNAV to Delray, 24L, line of wait, 737 in sight, Delta 2581.", "output": "Message: RNAV to Delray, 24L, line of wait, 737 in sight, Delta 2581.\nFrom: Delta 2581\nTo: Tower"}
+{"input": "Delta 1026, approaching 24R", "output": "Message: Delta 1026, approaching 24R\nFrom: Delta 1026\nTo: Tower"}
+{"input": "Delta 1026, LA Tower, wind 070 at 5, 24R, cleared to land.", "output": "Message: Delta 1026, LA Tower, wind 070 at 5, 24R, cleared to land.\nFrom: Tower\nTo: Delta 1026"}
+{"input": "Cleared to land 24R, Delta 1026.", "output": "Message: Cleared to land 24R, Delta 1026.\nFrom: Delta 1026\nTo: Tower"}
+{"input": "Sierra 76, SoCal departure.", "output": "Message: Sierra 76, SoCal departure.\nFrom: Tower\nTo: Sierra 76"}
+{"input": "Good day, 76.", "output": "Message: Good day, 76.\nFrom: Sierra 76\nTo: Tower"}
+{"input": "November 307GP, LA Tower, you on?", "output": "Message: November 307GP, LA Tower, you on?\nFrom: Tower\nTo: November 307GP"}
+{"input": "7GP.", "output": "Message: 7GP.\nFrom: November 307GP\nTo: Tower"}
+{"input": "Delta 2581, maintain visual separation, RNAV to Delray, runway 24L, cleared for takeoff.", "output": "Message: Delta 2581, maintain visual separation, RNAV to Delray, runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Delta 2581"}
+{"input": "Maintain visual separation, RNAV to Delray, runway 24L, cleared for takeoff, Delta 2581.", "output": "Message: Maintain visual separation, RNAV to Delray, runway 24L, cleared for takeoff, Delta 2581.\nFrom: Delta 2581\nTo: Tower"}
+{"input": "7GP, can you depart from any intersection?", "output": "Message: 7GP, can you depart from any intersection?\nFrom: Tower\nTo: November 307GP"}
+{"input": "November 307GP, can you depart from any intersection?", "output": "Message: November 307GP, can you depart from any intersection?\nFrom: Tower\nTo: November 307GP"}
+{"input": "Affirmative, 307GP.", "output": "Message: Affirmative, 307GP.\nFrom: November 307GP\nTo: Tower"}
+{"input": "Thank you.", "output": "Message: Thank you.\nFrom: Tower\nTo: November 307GP"}
+{"input": "7GP, any intersection runway 24L, just let me know which one you're taking.", "output": "Message: 7GP, any intersection runway 24L, just let me know which one you're taking.\nFrom: Tower\nTo: November 307GP"}
+{"input": "Echo 7 for 7GP.", "output": "Message: Echo 7 for 7GP.\nFrom: November 307GP\nTo: Tower"}
+{"input": "Okay, Echo 7, runway 24L, line up and wait.", "output": "Message: Okay, Echo 7, runway 24L, line up and wait.\nFrom: Tower\nTo: November 307GP"}
+{"input": "Line up and wait, 24L, 307GP.", "output": "Message: Line up and wait, 24L, 307GP.\nFrom: November 307GP\nTo: Tower"}
+{"input": "7GP, you can depart from Victor.", "output": "Message: 7GP, you can depart from Victor.\nFrom: Tower\nTo: November 307GP"}
+{"input": "All right, Victor for 7GP.", "output": "Message: All right, Victor for 7GP.\nFrom: November 307GP\nTo: Tower"}
+{"input": "Cessna 248, at Alpha Alpha, hold short of runway 24L.", "output": "Message: Cessna 248, at Alpha Alpha, hold short of runway 24L.\nFrom: Tower\nTo: Cessna 248"}
+{"input": "Hold short 24L, Alpha Alpha.", "output": "Message: Hold short 24L, Alpha Alpha.\nFrom: Cessna 248\nTo: Tower"}
+{"input": "7GP, RNAV to Delray, runway 24L, clear for takeoff.", "output": "Message: 7GP, RNAV to Delray, runway 24L, clear for takeoff.\nFrom: Tower\nTo: November 307GP"}
+{"input": "RNAV to Delray, 24L, clear for takeoff, 7GP.", "output": "Message: RNAV to Delray, 24L, clear for takeoff, 7GP.\nFrom: November 307GP\nTo: Tower"}
+{"input": "Delta 2581, contact SoCal departure.", "output": "Message: Delta 2581, contact SoCal departure.\nFrom: Tower\nTo: Delta 2581"}
+{"input": "Departure, Delta 2581, good day.", "output": "Message: Departure, Delta 2581, good day.\nFrom: Delta 2581\nTo: Tower"}
+{"input": "X3L8, Terra Fiora 1, check your transponder on, please.", "output": "Message: X3L8, Terra Fiora 1, check your transponder on, please.\nFrom: Tower\nTo: Unknown"}
+{"input": "Delta 1143, traffic will cross downfield runway 24L, line up and wait.", "output": "Message: Delta 1143, traffic will cross downfield runway 24L, line up and wait.\nFrom: Tower\nTo: Delta 1143"}
+{"input": "24L, line up and wait, Delta 1143.", "output": "Message: 24L, line up and wait, Delta 1143.\nFrom: Delta 1143\nTo: Tower"}
+{"input": "Sky 38, traffic full position, Alpha Alpha, cross runway 24L, go straight ahead, 0.75 checkpoint.", "output": "Message: Sky 38, traffic full position, Alpha Alpha, cross runway 24L, go straight ahead, 0.75 checkpoint.\nFrom: Tower\nTo: Sky 38"}
+{"input": "Cross 24L, Alpha Alpha.", "output": "Message: Cross 24L, Alpha Alpha.\nFrom: Sky 38\nTo: Tower"}
+{"input": "7GP, contact SoCal departure.", "output": "Message: 7GP, contact SoCal departure.\nFrom: Tower\nTo: November 307GP"}
+{"input": "Delta 1023, Alpha Alpha, cross runway 24L, left on Echo, contact ground 0.65, no delay, traffic is clear.", "output": "Message: Delta 1023, Alpha Alpha, cross runway 24L, left on Echo, contact ground 0.65, no delay, traffic is clear.\nFrom: Tower\nTo: Delta 1023"}
+{"input": "Alpha Alpha, cross 24L, Echo, ground 65, Delta 1023.", "output": "Message: Alpha Alpha, cross 24L, Echo, ground 65, Delta 1023.\nFrom: Delta 1023\nTo: Tower"}
+{"input": "LA Tower, Japan Air 16 Heavy, miles 5 now, 24R", "output": "Message: LA Tower, Japan Air 16 Heavy, miles 5 now, 24R\nFrom: Japan Air 16 heavy\nTo: Tower"}
+{"input": "Delta 1143, wind 080 at 5, RNAV to Delray, Runway 24L, cleared for takeoff.", "output": "Message: Delta 1143, wind 080 at 5, RNAV to Delray, Runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Delta 1143"}
+{"input": "RNAV to Delray, cleared for takeoff, 24L, Delta 1143.", "output": "Message: RNAV to Delray, cleared for takeoff, 24L, Delta 1143.\nFrom: Delta 1143\nTo: Tower"}
+{"input": "Hawaiian 63, runway 24L, line up and wait, report airbus departing ahead in sight.", "output": "Message: Hawaiian 63, runway 24L, line up and wait, report airbus departing ahead in sight.\nFrom: Tower\nTo: Hawaiian 63"}
+{"input": "Okay, well, it's in sight, line up and wait, 24L, Hawaiian 63, good morning.", "output": "Message: Okay, well, it's in sight, line up and wait, 24L, Hawaiian 63, good morning.\nFrom: Hawaiian 63\nTo: Tower"}
+{"input": "Good morning, Japan Air 16 heavy, LA Tower, wind 080 at 5, runway 24R.", "output": "Message: Good morning, Japan Air 16 heavy, LA Tower, wind 080 at 5, runway 24R.\nFrom: Tower\nTo: Japan Air 16 heavy"}
+{"input": "Roger, runway 24R, cleared to land, Japan Air 16 heavy.", "output": "Message: Roger, runway 24R, cleared to land, Japan Air 16 heavy.\nFrom: Japan Air 16 heavy\nTo: Tower"}
+{"input": "Hawaiian 63, visual separation, RNAV to Delray, runway 24L, cleared for takeoff.", "output": "Message: Hawaiian 63, visual separation, RNAV to Delray, runway 24L, cleared for takeoff.\nFrom: Tower\nTo: Hawaiian 63"}
+{"input": "We'll keep traffic in sight, RNAV to Delray, cleared for takeoff, Hawaiian 63.", "output": "Message: We'll keep traffic in sight, RNAV to Delray, cleared for takeoff, Hawaiian 63.\nFrom: Hawaiian 63\nTo: Tower"}
